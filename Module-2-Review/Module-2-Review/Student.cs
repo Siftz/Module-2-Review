@@ -15,5 +15,21 @@ public class Student
     {
         Grades.Add(grade); // add grade to Grades list
     }
-    // 
+    //method for adding multiple grades
+    public void AddGrades(params double[] grades)
+    {
+        Grades.AddRange(grades); // adds all grades to the grades list
+    }
+    // average grade method
+    public double CalculateAverageGrade()
+    {
+        if (Grades.Count == 0) return 0; // return 0 if no grades
+        double total = 0;
+        foreach (double grade in Grades)
+        {
+            total += grade; // sum of grades
+        }
+
+        return total / Grades.Count; // calc and return the average grades
+    }
 }
