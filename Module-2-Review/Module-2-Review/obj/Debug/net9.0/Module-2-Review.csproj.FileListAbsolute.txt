@@ -1,0 +1,15 @@
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.AssemblyInfoInputs.cache
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.AssemblyInfo.cs
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.csproj.CoreCompileInputs.cache
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.sourcelink.json
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\bin\Debug\net9.0\Module-2-Review.exe
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\bin\Debug\net9.0\Module-2-Review.deps.json
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\bin\Debug\net9.0\Module-2-Review.runtimeconfig.json
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\bin\Debug\net9.0\Module-2-Review.dll
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\bin\Debug\net9.0\Module-2-Review.pdb
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.dll
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\refint\Module-2-Review.dll
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.pdb
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\Module-2-Review.genruntimeconfig.cache
+C:\Users\lakin\repos\Module-2-Review\Module-2-Review\Module-2-Review\obj\Debug\net9.0\ref\Module-2-Review.dll
